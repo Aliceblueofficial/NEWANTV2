@@ -56,7 +56,7 @@ using ANTV2.ANTAPI;
 						
             ANTNEWAPI.squareofforderplacing();
 						
-							// Example call for functions like "OrderBook"
+					        // Example call for functions like "OrderBook"
 							
             ANTNEWAPI.OrderBook();
 						
@@ -70,17 +70,17 @@ using ANTV2.ANTAPI;
 						
 						// Example call for functions like "CancelOrder"
 						
-            ANTNEWAPI.CancelOrder("220906000218300");
+            ANTNEWAPI.CancelOrder("220906000218300"); //nestOrderNumber  to be updated 
 						
-						// Example call for functions like "OrderHistory"
+						// Example call for functions like "OrderHistory" 
 						
-            ANTNEWAPI.OrderHistory("220906000218300");
+            ANTNEWAPI.OrderHistory("220906000218300"); //nestOrderNumber  to be updated 
 						
 						// Example call for functions like "Holdings"
 						
             ANTNEWAPI.Holdings();
 						
-							// Example call for functions like "AccountDetails"
+					      // Example call for functions like "AccountDetails"
 							
             ANTNEWAPI.AccountDetails();
 						
