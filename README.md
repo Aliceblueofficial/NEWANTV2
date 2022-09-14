@@ -11,6 +11,7 @@ Alice Blue Financial Services Pvt.Ltd. © 2022. Licensed under the MIT License.
 # Requirements
 ANTV2 Connect targets netstandard2.0. Minimum project target is .NET Framework 4.6.1 or .NET Core 2.0.
 
+
 # Documentation
 .Net Library
 JSON API
@@ -22,6 +23,7 @@ Using NuGet
 Execute in Tools » NuGet Package Manager » Package Manager Console
 
 Install-Package ANTV2
+Install-Package ANTV2 latest NuGet Package.
 
 # Getting started
 
