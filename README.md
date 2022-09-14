@@ -83,6 +83,12 @@ using ANTV2.ANTAPI;
 					      // Example call for functions like "AccountDetails"
 							
             ANTNEWAPI.AccountDetails();
+	    
+	    ANTNEWAPI.InvalidDateSession();   // invalidates the functions for websocket.
+	    
+            ANTNEWAPI.CHANNEL = "MCX|239484#NSE|26000";  // subscribe the channel.
+	    
+            ANTNEWAPI.createSession();     // Creates the ssesion for websocket.
 						
 
 
