@@ -22,7 +22,6 @@ JSON API
 Using NuGet
 Execute in Tools » NuGet Package Manager » Package Manager Console
 
-Install-Package ANTV2
 Install-Package ANTV2 latest NuGet Package.
 
 # Getting started
