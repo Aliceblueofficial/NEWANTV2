@@ -9,7 +9,7 @@ AliceBlue Connect is a set of REST-like APIs that expose many capabilities requi
 Alice Blue Financial Services Pvt.Ltd. © 2022. Licensed under the MIT License.
 
 # Requirements
-ANTV2 Connect targets netstandard2.0. Minimum project target is .NET Framework 6.0
+ANTV2 Connect targets netstandard 6.0. Minimum project target is .NET Framework 6.0
 
 
 # Documentation
